@@ -1,0 +1,42 @@
+[
+  {
+    "item": {
+      "name": "Clay pot",
+      "emoji": "EMOJI HERE",
+      "description": "DESCRIPTION HERE",
+      "price": "200"
+    }
+  },
+  {
+    "item": {
+      "name": "ITEM NAME",
+      "emoji": "EMOJI HERE",
+      "description": "DESCRIPTION HERE",
+      "price": "100"
+    }
+  },
+  {
+    "item": {
+      "name": "ITEM NAME",
+      "emoji": "EMOJI HERE",
+      "description": "DESCRIPTION HERE",
+      "price": "100"
+    }
+  },
+  {
+    "item": {
+      "name": "ITEM NAME",
+      "emoji": "EMOJI HERE",
+      "description": "DESCRIPTION HERE",
+      "price": "100"
+    }
+  },
+  {
+    "item": {
+      "name": "ITEM NAME",
+      "emoji": "EMOJI HERE",
+      "description": "DESCRIPTION HERE",
+      "price": "100"
+    }
+  }
+]
